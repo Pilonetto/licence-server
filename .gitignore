@@ -1,0 +1,4 @@
+/node_modules/.bin
+/node_modules/@hapi/bourne
+/node_modules/@types/jsonwebtoken/*
+node_modules/
