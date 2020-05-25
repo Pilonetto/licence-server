@@ -16,10 +16,10 @@ fastify.register(require('fastify-cors'), {
 })
 
 fastify.register(require('fastify-mysql'), {
-  host: '192.185.176.95',
-  user: 'giromeca_tree',
-  password: 'asd123',
-  database: 'giromeca_pb',
+  host: '162.241.203.10',
+  user: 'treeau37_licence',
+  password: 'Marlon@040826',
+  database: 'treeau37_licence',
   connectionLimit: 5,
 });
 
